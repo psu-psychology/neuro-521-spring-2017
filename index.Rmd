@@ -1,0 +1,27 @@
+---
+name: ""
+---
+
+Welcome to the web site for Rick Gilmore's portion of NEURO 521, Spring 2017. We'll focus on visual neuroscience. You may find the schedule of class meetings and reading assignment information [here](schedule.html).
+
+## Instructor
+
+Rick O. Gilmore, Ph.D.</br>
+Associate Professor of Psychology</br>
+114 Moore Building</br>
+
++1 (814) 865-3664</br>
+rogilmore AT psu DOT edu</br>
+[Schedule an appointment](http://doodle.com/rickgilmore)</br>
+
+[http://www.personal.psu.edu/rog1](http://www.personal.psu.edu/rog1)</br>
+[http://gilmore-lab.github.io](http://gilmore-lab.github.io)</br>
+[http://databrary.org](http://databrary.org)
+
+## Meeting Location and Time
+
+Thu, February 9, 2017, 3:05-4:20p, 301 Boucke</br>
+Tue, February 14, 2017, 3:05-4:20p, 301 Boucke</br>
+Thu, February 16, 2017, 3:05-4:20p, 301 Boucke</br>
+Tues, February 21, 2017, 3:05-4:20p, 301 Boucke</br>
+
