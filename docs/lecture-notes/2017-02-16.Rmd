@@ -1,0 +1,72 @@
+---
+title: "neuro-521-hubel-wiesel"
+author: "Rick O. Gilmore"
+date: '`r Sys.Date()`'
+output:
+  ioslides_presentation:
+    css: ../css/gilmore-ioslides.css
+    incremental: no
+    self-contained: yes
+    transition: default
+    widescreen: yes
+  html_document:
+    keep_md: yes
+    self_contained: yes
+  pdf_document:
+    latex_engine: xelatex
+    toc: yes
+    toc_depth: 2
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# preliminaries
+
+## Topics
+
+- Visual processing in V1
+- Object processing
+- Perception vs. action
+- "Reading" the mind
+
+## Resources
+
+- Course web site: [psu-psychology.github.io/neuro-521-spring-2017](https://psu-psychology.github.io/neuro-521-spring-2017/schedule.html)
+
+## About me
+
+- Associate Professor of Psychology
+- Founding Director of Human Imaging at Penn State's [SLEIC](http://imaging.psu.edu)
+- Co-founder and Co-Director of the [Databrary.org](http://databrary.org) digital library
+- A.B., Cognitive Science, Brown; M.S. & Ph.D., Cognitive Neuroscience, Carnegie Mellon University
+- Folk music, theatre, poetry, cycling, hiking, paddling, amateur radio (K3ROG)
+
+# main event
+
+## Today's reading
+
+- [Hubel, D. H.](https://en.wikipedia.org/wiki/David_H._Hubel), & [Wiesel, T. N.](https://en.wikipedia.org/wiki/Torsten_Wiesel) (1962). Receptive fields, binocular interaction and functional architecture in the cat’s visual cortex. The Journal of Physiology, 160(1), 106–154. https://doi.org/10.1113/jphysiol.1962.sp006837
+
+<img src="https://upload.wikimedia.org/wikipedia/en/b/b0/David_H._Hubel.jpg">
+
+## Questions to ponder
+
+- What did they do?
+- What did they find?
+- Why should we care?
+
+## Other questions to ponder
+
+- What's the goal of visual neuroscience?
+- What's a receptive field?
+- What made 'simple' cells simple?
+    + How were cortical 'simple' cells different from LGN and retinal cells?
+- What made 'complex' cells complex?
+
+## More questions to ponder
+
+- How does the size of receptive fields vary?
+- What is direction selectivity?
+- What is ocular dominance?

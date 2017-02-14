@@ -19,12 +19,11 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-1.1/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-1.1/highlight.js"></script>
 
 <style type="text/css">code{white-space: pre;}</style>
-<link rel="stylesheet"
-      href="site_libs/highlight/textmate.css"
-      type="text/css" />
-<script src="site_libs/highlight/highlight.js"></script>
 <style type="text/css">
   pre:not([class]) {
     background-color: white;
@@ -151,7 +150,6 @@ $(document).ready(function () {
 <div class="container-fluid main-container">
 
 <!-- tabsets -->
-<script src="site_libs/navigation-1.1/tabsets.js"></script>
 <script>
 $(document).ready(function () {
   window.buildTabsets("TOC");
@@ -199,7 +197,7 @@ $(document).ready(function () {
 </div>
 
 
-<p>The schedule of class meeting dates and reading assignments are indicated below.</p>
+<p>The schedule of class meeting dates and reading assignments are indicated below. If you don’t mind grabbing your own copies of the articles from the indicated links, then the library will have a more accurate record of how many subscribers we have to these journals. As an alternative, the readings are also available on Angel.</p>
 <div id="thu-february-16-2017-visual-processing-in-v1" class="section level3">
 <h3>Thu, February 16, 2017 • Visual processing in V1</h3>
 <p>Hubel, D. H., &amp; Wiesel, T. N. (1962). Receptive fields, binocular interaction and functional architecture in the cat’s visual cortex. The Journal of Physiology, 160(1), 106–154. <a href="https://doi.org/10.1113/jphysiol.1962.sp006837" class="uri">https://doi.org/10.1113/jphysiol.1962.sp006837</a></p>
@@ -207,6 +205,10 @@ $(document).ready(function () {
 <h4>Additional background</h4>
 <p>Hubel, D. H. (1982). Exploration of the primary visual cortex, 1955-78. Nature, 299(5883), 515–524. <a href="http://neurosciences.us/courses/systems/CentralVision/hubel82.pdf" class="uri">http://neurosciences.us/courses/systems/CentralVision/hubel82.pdf</a>.</p>
 <p>Palmer, S. E. (1999). Vision Science: Photons to Phenomenology. MIT Press.</p>
+</div>
+<div id="lecture-notes" class="section level4">
+<h4>Lecture notes</h4>
+<p><a href="lecture-notes/2017-02-16.html">html</a></br> <a href="lecture-notes/2017-02-16.Rmd">Rmd</a></p>
 </div>
 </div>
 <div id="tue-february-21-2017-object-processing" class="section level3">
@@ -240,8 +242,11 @@ $(document).ready(function () {
 <script>
 
 // add bootstrap table styles to pandoc tables
-$(document).ready(function () {
+function bootstrapStylePandocTables() {
   $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
 });
 
 

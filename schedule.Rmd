@@ -2,7 +2,7 @@
 name: ""
 ---
 
-The schedule of class meeting dates and reading assignments are indicated below.
+The schedule of class meeting dates and reading assignments are indicated below. If you don't mind grabbing your own copies of the articles from the indicated links, then the library will have a more accurate record of how many subscribers we have to these journals. As an alternative, the readings are also available on Angel.
 
 ### Thu, February 16, 2017 • Visual processing in V1
 
@@ -13,6 +13,11 @@ Hubel, D. H., & Wiesel, T. N. (1962). Receptive fields, binocular interaction an
 Hubel, D. H. (1982). Exploration of the primary visual cortex, 1955-78. Nature, 299(5883), 515–524. http://neurosciences.us/courses/systems/CentralVision/hubel82.pdf.
 
 Palmer, S. E. (1999). Vision Science: Photons to Phenomenology. MIT Press.
+
+#### Lecture notes
+
+[html](lecture-notes/2017-02-16.html)</br>
+[Rmd](lecture-notes/2017-02-16.Rmd)
 
 ### Tue, February 21, 2017 • Object processing
 
