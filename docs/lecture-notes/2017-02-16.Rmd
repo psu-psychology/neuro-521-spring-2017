@@ -43,6 +43,12 @@ knitr::opts_chunk$set(echo = FALSE)
 - A.B., Cognitive Science, Brown; M.S. & Ph.D., Cognitive Neuroscience, Carnegie Mellon University
 - Folk music, theatre, poetry, cycling, hiking, paddling, amateur radio (K3ROG)
 
+---
+
+Gilmore, R.O., Diaz, M., Wyble, B., & Yarkoni, T. (2017, February 10). Progress toward openness, transparency, and reproducibility in cognitive neuroscience. Retrieved from <http://osf.io/yt3s4>
+
+Gilmore, R. O., & Adolph, K. E. (2017, February 9). Video can make science more open, transparent, robust, and reproducible. Retrieved from <http://osf.io/3kvp7>
+
 # main event
 
 ## Today's reading
@@ -57,6 +63,14 @@ knitr::opts_chunk$set(echo = FALSE)
 - What did they find?
 - Why should we care?
 
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IOHayh06LJ4" frameborder="0" allowfullscreen></iframe>
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8VdFf3egwfg" frameborder="0" allowfullscreen></iframe>
+
 ## Other questions to ponder
 
 - What's the goal of visual neuroscience?
@@ -70,3 +84,11 @@ knitr::opts_chunk$set(echo = FALSE)
 - How does the size of receptive fields vary?
 - What is direction selectivity?
 - What is ocular dominance?
+
+## Cortical hypercolumn
+
+<div class="centered">
+<a href="http://thebrain.mcgill.ca/flash/a/a_02/a_02_cl/a_02_cl_vis/a_02_cl_vis.html">
+<img src="http://thebrain.mcgill.ca/flash/a/a_02/a_02_cl/a_02_cl_vis/a_02_cl_vis_3d.jpg" height=500px/>
+</a>
+</div>
