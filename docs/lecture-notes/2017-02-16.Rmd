@@ -133,3 +133,8 @@ Figure 20. How to build an orientation-selective cell from center-surround input
 <img src="http://thebrain.mcgill.ca/flash/a/a_02/a_02_cl/a_02_cl_vis/a_02_cl_vis_3d.jpg" height=500px/>
 </a>
 </div>
+
+## Next time...
+
+- Object processing
+- Perrett, D. I., Rolls, E. T., & Caan, W. (1982). Visual neurones responsive to faces in the monkey temporal cortex. Experimental Brain Research, 47(3), 329–342. https://doi.org/10.1007/BF00239352
