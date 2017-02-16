@@ -47,7 +47,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Gilmore, R.O., Diaz, M., Wyble, B., & Yarkoni, T. (2017, February 10). Progress toward openness, transparency, and reproducibility in cognitive neuroscience. Retrieved from <http://osf.io/yt3s4>
 
-Gilmore, R. O., & Adolph, K. E. (2017, February 9). Video can make science more open, transparent, robust, and reproducible. Retrieved from <http://osf.io/3kvp7>
+Gilmore, R.O., & Adolph, K.E. (2017, February 9). Video can make science more open, transparent, robust, and reproducible. Retrieved from <http://osf.io/3kvp7>
 
 # main event
 
@@ -84,6 +84,47 @@ Gilmore, R. O., & Adolph, K. E. (2017, February 9). Video can make science more 
 - How does the size of receptive fields vary?
 - What is direction selectivity?
 - What is ocular dominance?
+
+## Key points
+
+  > "...with the exception of afferent fibres from the lateral geniculate body we have found no units with concentric 'on'-centre or 'off'-centre fields." p.109
+  
+  > "...By trial and error with many shapes of stimulus it was discovered that the cell's firing could be influenced by a horizontally oriented slit..." p. 114
+  
+  > "In describing simple fields it has already been noted that moving stimuli were often more effective than stationary ones. This was also true of cells with complex fields." p. 121
+  
+---
+
+  > "...in both geniculate and cortex the field dimensions tend to increase with distance from the area centralis, and that they differ even for a given location in the retina." p. 122
+  
+  > "...the only differences ever seen between the two fields were related to eye dominance: identical stimuli to the two eyes did not necessarily evoke equally strong responses from a given cell." p. 124
+  
+  > "...the striate cortex is divided into discrete regions within which the cells have a common receptive-field axis orientation." p. 133
+  
+---
+
+  > "Cells with simple fields were most numerous in layers 3, 4 and 6. Especially interesting is the apparent rarity of complex fields in layer 4, where simple fields were so abundant." p. 139
+
+  > "We may tentatively look upon each column as a functional unit of cortex, within which simple fields are elaborated and then in turn synthesized into complex fields." p. 144
+---
+
+<div class="centered">
+<img src="img/hubel-wiesel-62-fig-19.jpg">
+</div>
+
+<div class="notes">
+Figure 19. How to build an orientation-selective cell from center-surround inputs.
+</div>
+
+---
+
+<div class="centered">
+<img src="img/hubel-wiesel-62-fig-20.jpg" height=500px>
+</div>
+
+<div class="notes">
+Figure 20. How to build an orientation-selective cell from center-surround inputs.
+</div>
 
 ## Cortical hypercolumn
 
