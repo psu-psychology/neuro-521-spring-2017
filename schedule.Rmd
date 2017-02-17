@@ -23,6 +23,11 @@ Palmer, S. E. (1999). Vision Science: Photons to Phenomenology. MIT Press.
 
 Perrett, D. I., Rolls, E. T., & Caan, W. (1982). Visual neurones responsive to faces in the monkey temporal cortex. Experimental Brain Research, 47(3), 329–342. https://doi.org/10.1007/BF00239352
 
+#### Lecture notes
+
+[html](lecture-notes/2017-02-21.html)</br>
+[Rmd](lecture-notes/2017-02-21.Rmd)
+
 ### Thu, February 23, 2017 • Perception vs. action
 
 Goodale, M. A., Milner, A. D., Jakobson, L. S., & Carey, D. P. (1991). A neurological dissociation between perceiving objects and grasping them. Nature, 349(6305), 154–156. https://doi.org/10.1038/349154a0
