@@ -84,6 +84,33 @@ Perrett, D. I., Rolls, E. T., & Caan, W. (1982). Visual neurones responsive to f
 - What other kinds of "detectors" might there be?
 - What's the ["grandmother cell" hypothesis](https://en.wikipedia.org/wiki/Grandmother_cell), and how does this work comport with it?
 
+## Other perspectives
+
+- Rolls, E. T., Judge, S. J., & Sanghera, M. K. (1977). Activity of neurones in the inferotemporal cortex of the alert monkey. Brain Research, 130(2), 229–238. <https://doi.org/10.1016/0006-8993(77)90272-4>
+- Servos, P., Osu, R., Santi, A., & Kawato, M. (2002). The Neural Substrates of Biological Motion Perception: an fMRI Study. Cerebral Cortex, 12(7), 772–782. <https://doi.org/10.1093/cercor/12.7.772>
+    + [Bio-motion demos](https://www.biomotionlab.ca/Demos/BMLwalker.html)
+    
+---
+
+<iframe src="https://www.biomotionlab.ca/Demos/BMLwalker.html">
+</iframe>
+
+---
+
+<a href="http://webvision.med.utah.edu/book/part-ix-psychophysics-of-vision/the-primary-visual-cortex/">
+<div class="centered">
+<img src="http://webvision.med.utah.edu/imageswv/Visual-Cortex1.jpg" height=500px>
+</a>
+</div>
+
+Van Essen, D. C., Anderson, C. H., & Felleman, D. J. (1992). Information Processing in the Primate Visual System: An Integrated Systems Perspective. Science; Washington, 255(5043), 419.
+
+
+## Inputs to STS
+
+- Gallant, J. L., Braun, J., & Essen, D. V. (1993). Selectivity for polar, hyperbolic, and Cartesian gratings in macaque visual cortex. Science, 259(5091), 100–103. <https://doi.org/10.1126/science.8418487>
+- Roe, A. W., Chelazzi, L., Connor, C. E., Conway, B. R., Fujita, I., Gallant, J. L., … Vanduffel, W. (2012). Toward a Unified Theory of Visual Area V4. Neuron, 74(1), 12–29. <https://doi.org/10.1016/j.neuron.2012.03.011>.
+
 ## How does Perrett et al. relate to [convolutional neural networks](https://en.wikipedia.org/wiki/Convolutional_neural_network)?
 
 <div class="centered">
