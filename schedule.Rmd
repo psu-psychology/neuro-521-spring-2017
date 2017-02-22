@@ -36,6 +36,11 @@ Goodale, M. A., Milner, A. D., Jakobson, L. S., & Carey, D. P. (1991). A neurolo
 
 Goodale, M. A., & Milner, A. D. (1992). Separate visual pathways for perception and action. Trends in Neurosciences, 15(1), 20–25. https://doi.org/10.1016/0166-2236(92)90344-8
 
+#### Lecture notes
+
+[html](lecture-notes/2017-02-23.html)</br>
+[Rmd](lecture-notes/2017-02-23.Rmd)
+
 ### Tues, February 28, 2017 • "Reading" the mind via fMRI
 
 Kay, K. N., Naselaris, T., Prenger, R. J., & Gallant, J. L. (2008). Identifying natural images from human brain activity. Nature, 452(7185), 352–355. https://doi.org/10.1038/nature06713
