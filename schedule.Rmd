@@ -50,3 +50,8 @@ Kay, K. N., Naselaris, T., Prenger, R. J., & Gallant, J. L. (2008). Identifying 
 Kay, K. N., & Gallant, J. L. (2009). I can see what you see. Nature Neuroscience, 12(3), 245–245. https://doi.org/10.1038/nn0309-245
 
 DeYoe, E. A., Bandettini, P., Neitz, J., Miller, D., & Winans, P. (1994). Functional magnetic resonance imaging (fMRI) of the human brain. Journal of Neuroscience Methods, 54(2), 171–187. http://doi.org/10.1016/0165-0270(94)90191-0
+
+#### Lecture notes
+
+[html](lecture-notes/2017-02-28.html)</br>
+[Rmd](lecture-notes/2017-02-28.Rmd)
