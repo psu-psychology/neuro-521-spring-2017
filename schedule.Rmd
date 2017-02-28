@@ -6,13 +6,13 @@ The schedule of class meeting dates and reading assignments are indicated below.
 
 ### Thu, February 16, 2017 • Visual processing in V1
 
-Hubel, D. H., & Wiesel, T. N. (1962). Receptive fields, binocular interaction and functional architecture in the cat’s visual cortex. The Journal of Physiology, 160(1), 106–154. https://doi.org/10.1113/jphysiol.1962.sp006837
+Hubel, D. H., & Wiesel, T. N. (1962). Receptive fields, binocular interaction and functional architecture in the cat’s visual cortex. *The Journal of Physiology*, *160*(1), 106–154. https://doi.org/10.1113/jphysiol.1962.sp006837
 
 #### Additional background
 
-Hubel, D. H. (1982). Exploration of the primary visual cortex, 1955-78. Nature, 299(5883), 515–524. http://neurosciences.us/courses/systems/CentralVision/hubel82.pdf.
+Hubel, D. H. (1982). Exploration of the primary visual cortex, 1955-78. *Nature*, *299*(5883), 515–524. http://neurosciences.us/courses/systems/CentralVision/hubel82.pdf.
 
-Palmer, S. E. (1999). Vision Science: Photons to Phenomenology. MIT Press.
+Palmer, S. E. (1999). *Vision Science: Photons to Phenomenology*. MIT Press.
 
 #### Lecture notes
 
@@ -21,7 +21,7 @@ Palmer, S. E. (1999). Vision Science: Photons to Phenomenology. MIT Press.
 
 ### Tue, February 21, 2017 • Object processing
 
-Perrett, D. I., Rolls, E. T., & Caan, W. (1982). Visual neurones responsive to faces in the monkey temporal cortex. Experimental Brain Research, 47(3), 329–342. https://doi.org/10.1007/BF00239352
+Perrett, D. I., Rolls, E. T., & Caan, W. (1982). Visual neurones responsive to faces in the monkey temporal cortex. *Experimental Brain Research*, *47*(3), 329–342. https://doi.org/10.1007/BF00239352
 
 #### Lecture notes
 
@@ -30,11 +30,11 @@ Perrett, D. I., Rolls, E. T., & Caan, W. (1982). Visual neurones responsive to f
 
 ### Thu, February 23, 2017 • Perception vs. action
 
-Goodale, M. A., Milner, A. D., Jakobson, L. S., & Carey, D. P. (1991). A neurological dissociation between perceiving objects and grasping them. Nature, 349(6305), 154–156. https://doi.org/10.1038/349154a0
+Goodale, M. A., Milner, A. D., Jakobson, L. S., & Carey, D. P. (1991). A neurological dissociation between perceiving objects and grasping them. *Nature*, *349*(6305), 154–156. https://doi.org/10.1038/349154a0
 
 #### Additional background
 
-Goodale, M. A., & Milner, A. D. (1992). Separate visual pathways for perception and action. Trends in Neurosciences, 15(1), 20–25. https://doi.org/10.1016/0166-2236(92)90344-8
+Goodale, M. A., & Milner, A. D. (1992). Separate visual pathways for perception and action. *Trends in Neurosciences*, *15*(1), 20–25. https://doi.org/10.1016/0166-2236(92)90344-8
 
 #### Lecture notes
 
@@ -43,10 +43,10 @@ Goodale, M. A., & Milner, A. D. (1992). Separate visual pathways for perception 
 
 ### Tues, February 28, 2017 • "Reading" the mind via fMRI
 
-Kay, K. N., Naselaris, T., Prenger, R. J., & Gallant, J. L. (2008). Identifying natural images from human brain activity. Nature, 452(7185), 352–355. https://doi.org/10.1038/nature06713
+Kay, K. N., Naselaris, T., Prenger, R. J., & Gallant, J. L. (2008). Identifying natural images from human brain activity. *Nature*, *452*(7185), 352–355. https://doi.org/10.1038/nature06713. [Supplemental materials](http://www.nature.com/nature/journal/v452/n7185/extref/nature06713-s1.pdf).
 
 #### Additional background
 
 Kay, K. N., & Gallant, J. L. (2009). I can see what you see. Nature Neuroscience, 12(3), 245–245. https://doi.org/10.1038/nn0309-245
 
-DeYoe, E. A., Bandettini, P., Neitz, J., Miller, D., & Winans, P. (1994). Functional magnetic resonance imaging (FMRI) of the human brain. Journal of Neuroscience Methods, 54(2), 171–187. http://doi.org/10.1016/0165-0270(94)90191-0
+DeYoe, E. A., Bandettini, P., Neitz, J., Miller, D., & Winans, P. (1994). Functional magnetic resonance imaging (fMRI) of the human brain. Journal of Neuroscience Methods, 54(2), 171–187. http://doi.org/10.1016/0165-0270(94)90191-0
